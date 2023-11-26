@@ -1,5 +1,5 @@
-**Name:** Volodya Khomut
-**Age:** 17
+**Name:** Volodya Khomut |
+**Age:** 17|
 **Current location:** Ternopil, Ukraine
 **University:** Ternopil State University of National Economy
 **Faculty:** Computer science
