@@ -38,3 +38,10 @@ Volodya Khomut is a 17-year-old student at Ternopil State University of National
 
 
 "The future belongs to those who believe in the beauty of their dreams." - Eleanor Roosevelt
+# Мій проект
+
+Цей проект містить ...
+
+## Нова серія
+
+Ця серія містить ...
