@@ -11,7 +11,7 @@
 **Major:** Artificial intelligence
 
 
-Volodya Khomut is a 17-year-old student at Ternopil State University of National Economy. He is majoring in artificial intelligence and is currently in his first year. Volodya is interested in computer science and technology, and he is excited to learn more about artificial intelligence. He is also passionate about helping others, and he hopes to use his skills to make a positive impact on the world.
+Volodya is a 17-year-old student at Ternopil State University of National Economy. He is majoring in artificial intelligence and is currently in his first year. Volodya is interested in computer science and technology, and he is excited to learn more about artificial intelligence. He is also passionate about helping others, and he hopes to use his skills to make a positive impact on the world.
 
 
 **Hobbies:**
