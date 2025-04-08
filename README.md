@@ -1,4 +1,4 @@
-**Name:** Volodya Khomut 
+**Name:** Volodya 
 
 **Age:** 17
 
